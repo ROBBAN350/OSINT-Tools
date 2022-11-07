@@ -5,3 +5,5 @@ This collection is a bit unorganized and empty because this repository is still 
 
 ## Random
 [Shodan](https://www.shodan.io/) - Search engine that can be used to find different vulnerable machines around the world
+
+[Datasploit](https://github.com/datasploit/datasploit/) - OSINT Automation tool that can gather info from domains, emails, usernames, phones
